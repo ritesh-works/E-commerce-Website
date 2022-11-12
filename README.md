@@ -1,0 +1,1 @@
+Technologies Used - React, MongoDB, Node, Express, JSON Web Token, JavaScript, HTML, Bootstrap Complete frontend and backend website using MERN stack which includes Schemas & APIs for users, categories, products and orders. Has password encrypted user login authentication using token & SHA256 algorithm.
